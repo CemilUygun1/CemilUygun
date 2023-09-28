@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeimages.com%2Ftr%2Fpremium%2Fbusinessman-profile-icon-male-portrait-flat-1507451&psig=AOvVaw0HaH93xmr4bIpY4ww8fRqB&ust=1695910560802000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIitzKb9yoEDFQAAAAAdAAAAABAE)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHJ8RbHOUDPcg/profile-displaybackgroundimage-shrink_350_1400/0/1673041148190?e=1701302400&v=beta&t=LbrV-a4keRlIiqAKvwVLCrCKe52wIZ9aEZcl9FQx4Fk)
 <h1 align="center">Hi 👋, I'm Cemil Furkan Uygun</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
