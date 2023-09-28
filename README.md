@@ -21,4 +21,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cemiluygun1&" alt="cemiluygun1" /></p>
 
 
-![snake gif](https://github.com/CemilUygun1/CemilUygun1/blob/output/github-contribution-grid-snake.gif)
+<div id="header" align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
